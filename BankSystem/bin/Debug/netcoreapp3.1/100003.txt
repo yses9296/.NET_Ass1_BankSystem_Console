@@ -1,0 +1,9 @@
+﻿First Name: Eunseo
+Last Name: Choi
+Address: seoul
+Phone: 123455
+Email: yses9296@gmail.com
+Account No: 100003
+Balance: 0 
+
+

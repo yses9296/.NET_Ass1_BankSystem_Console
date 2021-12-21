@@ -1,0 +1,9 @@
+First Name: Eunseo
+Last Name: Choi
+Address: Seoul
+Phone: 123
+Email: yses9296@gmail.com
+Account No: 100005
+Balance: 1800
+2021-09-30 | Deposit | 1900 | 1900
+2021-09-30 | Withdraw | 100 | 1800

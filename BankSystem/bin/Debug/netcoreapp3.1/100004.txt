@@ -1,0 +1,9 @@
+﻿First Name: Sally
+Last Name: Cho
+Address: AU
+Phone: 234567
+Email: yses9296@gmail.com
+Account No: 100004
+Balance: 0 
+
+
