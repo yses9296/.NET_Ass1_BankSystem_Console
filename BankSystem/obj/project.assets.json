@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yses9\\Desktop\\Application Development with .NET\\Assignment1\\BankSystem\\BankSystem\\BankSystem.csproj",
+      "projectUniqueName": "C:\\Users\\yses9\\Downloads\\13340260_EunseoChoi_Ass1\\BankSystem\\BankSystem.csproj",
       "projectName": "BankSystem",
-      "projectPath": "C:\\Users\\yses9\\Desktop\\Application Development with .NET\\Assignment1\\BankSystem\\BankSystem\\BankSystem.csproj",
+      "projectPath": "C:\\Users\\yses9\\Downloads\\13340260_EunseoChoi_Ass1\\BankSystem\\BankSystem.csproj",
       "packagesPath": "C:\\Users\\yses9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yses9\\Desktop\\Application Development with .NET\\Assignment1\\BankSystem\\BankSystem\\obj\\",
+      "outputPath": "C:\\Users\\yses9\\Downloads\\13340260_EunseoChoi_Ass1\\BankSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yses9\\AppData\\Roaming\\NuGet\\NuGet.Config",

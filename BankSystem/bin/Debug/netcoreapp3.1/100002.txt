@@ -1,0 +1,12 @@
+First Name: Sam
+Last Name: Kim
+Address: Sydney, Australia
+Phone: 2345678
+Email: yses9296@gmail.com
+Account No: 100002
+Balance: 990
+
+2021-09-29 | Deposit | 90 | 90
+2021-09-30 | Deposit | 700 | 790
+2021-09-30 | Deposit | 190 | 980
+2021-09-30 | Deposit | 10 | 990
